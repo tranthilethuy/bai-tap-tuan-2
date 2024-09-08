@@ -1,0 +1,120 @@
+
+* {
+    padding: 0px;
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+.wrapper {
+    height: 860px;
+    width: 1089px;
+    background-color: blueviolet;
+    border: 2px solid pink;
+}
+header {
+    line-height: 100px;
+    height: 80px;
+    width: 1089px;
+    background-color: rgb(244, 242, 242);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 24px;
+    color: palevioletred;
+}
+nav {
+    height: 60px;
+    width: 1089px;
+    background-color: palevioletred;
+}
+.noidung{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    color: white;
+  }
+
+.noidung a {
+    color: white; 
+    text-decoration: none;   
+}
+.section {
+    height: 640px;
+    width: 1089px;
+    background-color: white;
+
+}
+.menu-left {
+    height: 640px;
+    width: 15%;
+    background-color: white;
+    float: left;
+}
+article {
+    height: 40px;
+    width: 60%;
+    background-color: white;
+    float: left;  
+}
+aside {
+    height: 540px;
+    width: 25%;
+    background-color: rgb(15, 17, 1);
+    float: left;  
+    color: aliceblue;
+}
+footer {
+    line-height: 100px;
+    height: 80px;
+    width: 1089px;
+    background-color: palevioletred;    
+    color:white ;  
+    font-style: italic;
+    text-align: center;
+}
+.top-menu li {
+    float:left;
+    width: 200px;
+    line-height: 20px;
+    text-align: center;
+    list-style: none;
+}
+.top-menu li a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: aliceblue;
+    line-height: 50px;
+}
+article li {
+    margin-left: 50px;
+}
+h1 {
+    width: 300px;
+    height: 30px;
+    background-color: palevioletred;
+    color: rgb(85, 11, 67);
+    text-align: center;
+}
+.menu-left li {
+    width: 150px;
+    height: 20px;
+    background-color: palevioletred;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    margin: 5px;
+    list-style: none;
+    text-decoration: none;
+}
+.menu-left li a {
+    list-style: none;
+    text-decoration: none;
+}
+img {
+    align-self: center;
+}
+
+.abc{
+    height: 250px;
+    width: 220px;
+    text-align: justify;
+}

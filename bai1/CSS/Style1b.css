@@ -1,0 +1,55 @@
+
+.wrapper {
+    border: 1px solid rgb(235, 93, 93);
+    width: 800px;
+    height: 600px;
+    padding-top: 0;
+    box-shadow: 0px -1px 5px;
+    margin: 0px auto;
+  }
+  
+  header {
+    line-height: 60px;
+    height: 60px;
+    width: 100%;
+    background-color: rgb(244, 242, 242);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 24px;
+    color: palevioletred;
+}
+
+  nav {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(235, 150, 150);
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  h1 {
+    width: 100%;
+    color: rgb(165, 42, 42);
+    background-color: rgb(245, 245, 220);
+  }
+  
+  ins {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .chicken {
+    color: rgb(210, 109, 64);
+    font-weight: bold;
+  }
+  
+  .backtotop {
+    font-weight: bold;
+    color: red;
+  }

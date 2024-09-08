@@ -1,0 +1,45 @@
+
+.wrapper {
+    border: 1px solid rgb(235, 93, 93);
+    width: 800px;
+    height: 600px;
+    padding: 0;
+    box-shadow: 0px -1px 5px;
+    margin: 0px auto;
+  }
+  header {
+    text-align: center;
+    font-style: italic;
+    color: rgb(165, 42, 42);
+    text-shadow: 0px -1px 5px;
+  }
+  
+  h1 {
+    width: 100%;
+    color: rgb(165, 42, 42);
+    background-color: rgb(245, 245, 220);
+  }
+   
+    .menu {
+        text-decoration: none;
+      }
+   
+    .starter {
+      padding-left: 30px;
+    }
+  
+    ins {
+      color: red;
+      font-weight: bold;
+    }
+    
+    .chicken {
+      color: rgb(210, 109, 64);
+      font-weight: bold;
+    }
+    
+    .backtotop {
+      font-weight: bold;
+      color: red;
+    }
+  
